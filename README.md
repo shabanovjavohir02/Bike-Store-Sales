@@ -1,5 +1,4 @@
 # Bike-Store-Sales
-# BikeStore – SQL-Powered Retail Performance System
 
 ## Overview
 This project demonstrates the development of a Business Intelligence (BI) system using SQL Server based on a real-world retail dataset.
@@ -45,25 +44,6 @@ Automated procedures were built to generate key business insights:
 - `sp_CompareSalesYearOverYear`
 - `sp_GetCustomerProfile`
 
-### Business KPIs
-The system calculates several key retail performance metrics:
-
-- Total Revenue
-- Average Order Value (AOV)
-- Inventory Turnover
-- Revenue by Store
-- Gross Profit by Category
-- Sales by Brand
-- Staff Revenue Contribution
-
-These KPIs help management monitor sales performance, product demand, and operational efficiency.
-
-### Automation
-A **SQL Server Agent Job** automates the workflow by:
-- Loading CSV files into the database
-- Running stored procedures
-- Saving results into reporting tables
-
 ## Tech Stack
 
 - **SQL Server**
@@ -72,5 +52,3 @@ A **SQL Server Agent Job** automates the workflow by:
 - SQL Server Agent
 - Relational Database Design
 - Business Intelligence Concepts
-
-## Project Structure
