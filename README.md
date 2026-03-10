@@ -19,6 +19,9 @@ The project uses multiple CSV datasets representing a retail environment, includ
 
 These datasets were imported, cleaned, and transformed into a normalized SQL Server database schema.
 
+<img width="1027" height="784" alt="image" src="https://github.com/user-attachments/assets/550b6050-c2e5-4a45-9a3e-152d0d367020" />
+
+
 ## Key Features
 
 ### Data Engineering
